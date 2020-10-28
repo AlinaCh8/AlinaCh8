@@ -12,7 +12,7 @@
   **Kaggle:** https://www.kaggle.com/alinach8  
   **LinkedIn:** https://www.linkedin.com/in/alina-cherkas-a28a80177/  
   **e-mail:** alina-cherkas@mail.ru  
-  [Резюме](https://yadi.sk/i/N6TG_Y_NqrawdA)
+  [Резюме](https://yadi.sk/i/FFdiR1NFfEDaCw)
 
 
 ### WELCOME!
