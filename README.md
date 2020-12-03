@@ -4,7 +4,7 @@ Research is a way of life for me. I enjoy finding information and working with i
 
 I received my excellent knowledge in algebra, mathematical statistics and probability theory at ITMO University due to my passion for quantum informatics from the 2nd to the 4th year (My project: «The calculation of quantum circuits for mathematical operations».
 
-My best interest: Predictive Analytics, Data mining, Natural Language Processing.
+My best interest: mathematical modeling, predictive analytics, data mining, natural language processing.
 
 **Technical Skills:** Python (Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, SciKit Learn), SQL, Linux, Git.
 
