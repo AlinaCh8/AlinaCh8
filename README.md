@@ -23,7 +23,7 @@ I received my excellent knowledge in algebra, mathematical statistics and probab
 
 My best interest: Predictive Analytics, Data mining, Natural Language Processing.
 
-**Technical Skills:** Python (Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, SciKit Learn), SQL, Linux, Git
+**Technical Skills:** Python (Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, SciKit Learn), SQL, Linux, Git.
 
 
   **Kaggle:** https://www.kaggle.com/alinach8  
