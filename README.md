@@ -1,21 +1,4 @@
-### Добро пожаловать!
-Я Черкас Алина, студентка курса «Специализация Data Science» SkillFactory.
-
-Исследование для меня - это образ жизни. Я получаю удовольствие от поиска информации и работы с ней. Мне нравится решать сложные задачи и я спокойно отношусь к рутиной работе.
-
-Серьёзную математическую подготовку я получила в Университете ИТМО благодаря своему увлечению квантовой информатикой со 2-го по 4-й курс (проект по расчету квантовых схем для математических операций).
-
-Сфера моих интересов: предсказательная аналитика, интеллектуальный анализ данных, обработка естественного языка.
-
-**Технические навыки:** Stack: Python (Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, SciKit Learn), SQL, Linux, Git.
-
-  **Kaggle:** https://www.kaggle.com/alinach8  
-  **LinkedIn:** https://www.linkedin.com/in/alina-cherkas-a28a80177/  
-  **e-mail:** alina-cherkas@mail.ru  
-
-
 ### WELCOME!
-I'm Alina Cherkas, student of Data Science Specialization SkillFactory course.
 
 Research is a way of life for me. I enjoy finding information and working with it. I like solving complex problems and I'm calm about routine work.
 
