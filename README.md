@@ -10,4 +10,3 @@ My best interest: Computer Vision, Web Scraping, Mathematical Modeling,
 
 
   **LinkedIn:** https://www.linkedin.com/in/alina-cherkas-a28a80177/  
-  **e-mail:** -
