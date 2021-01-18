@@ -9,6 +9,5 @@ My best interest: Computer Vision, Web Scraping, Mathematical Modeling,
 **Technical Skills:** Python (Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, SciKit Learn), SQL, Linux, Git.
 
 
-  **Kaggle:** https://www.kaggle.com/alinach8  
   **LinkedIn:** https://www.linkedin.com/in/alina-cherkas-a28a80177/  
-  **e-mail:** alina-cherkas@mail.ru  
+  **e-mail:** -
