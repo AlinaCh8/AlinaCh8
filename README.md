@@ -6,7 +6,7 @@ I received my excellent knowledge in algebra, mathematical statistics and probab
 
 My best interest: Predictive analytics, Computer Vision, Web Scraping, Mathematical Modeling,
 
-**Technical Skills:** Python (Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, SciKit Learn), SQL, Linux, Git.
+**Technical Skills:** Python (Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, SciKit Learn, OpenCV, TensorFlow), SQL, Linux, Git.
 
 
-  **LinkedIn:** https://www.linkedin.com/in/alina-cherkas-a28a80177/  
+**LinkedIn:** https://www.linkedin.com/in/alina-cherkas-a28a80177/  
